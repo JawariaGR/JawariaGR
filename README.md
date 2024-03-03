@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JawariaGR
-- 👀 I’m interested in Gen AL
+- 👀 I’m interested in Gen AI
 - 🌱 I’m currently learning Python and Typescript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
